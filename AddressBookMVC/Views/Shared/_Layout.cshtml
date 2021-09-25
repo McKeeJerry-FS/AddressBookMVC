@@ -22,6 +22,9 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Contacts" asp-action="Index">Address Book</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                     </ul>
@@ -36,8 +39,27 @@
     </div>
 
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2021 - AddressBookMVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        <div class="container-fluid">
+            <div class="container-fluid">
+                <div class="row row-cols-1 row-cols-lg-3 gy-3">
+                    <div class="col order-last order-lg-first text-light d-flex align-items-center">
+                        <div>
+                            <span class="text-muted">&copy;2021</span> Jerry McKee Jr | jerry.mckee.jr0882@gmail.com
+                        </div>
+                    </div>
+                    <div class="col d-flex align-items-center justify-content-center">
+                        <img src="~/img/name_logo.png" alt="Jerry McKee Jr Logo" height="40">
+                    </div>
+                    <div class="col d-flex align-items-center justify-content-start justify-content-lg-end">
+                        <div class="row">
+                            <div class="col social"><a href="https://www.linkedin.com/in/jjerry-mckee-jr/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a></div>
+                            <div class="col social"><a href="https://github.com/McKeeJerry-FS" target="_blank"><i class="fab fa-github fa-2x"></i></a></div>
+                            <div class="col social"><a href="" target="_blank"><i class="fab fa-twitter fa-2x"></i></a></div>
+                            <div class="col social"><a href="" target="_blank"><i class="fab fa-youtube fa-2x"></i></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
