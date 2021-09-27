@@ -1,15 +1,12 @@
-﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
-:root {
+﻿:root {
     --primary-color: #1d5888;
     --secondary-color: #ff993b;
     --dark-color: #292929;
-    --white-color: #DFE3E4;
+    --white-color: #e7e7e7;
 }
 
 body {
-    color: var(--dark-color);
+    color: var(--dark-color)
 }
 
 nav {
@@ -20,29 +17,22 @@ footer {
     background-color: var(--dark-color);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     color: var(--primary-color);
 }
 
-.even {
-    font-weight: bolder;
-}
 
-.odd {
-    font-weight: 100;
-}
 
 main > .container {
     padding: 60px 15px 0;
+    margin-bottom: 5rem;
 }
 
-#content {
-    min-height: 90vh;
+.sticky-nav {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 footer {
@@ -51,32 +41,32 @@ footer {
 
 footer .social > a {
     color: var(--white-color);
-    opacity: 0.75,
+    opacity: 75%;
 }
 
 footer .social > a:hover {
+    opacity: 90%;
     color: var(--secondary-color);
-    opacity: 0.9;
 }
 
-bsicon {
-    color: purple;
+.bsicon {
+    color: rgb(113,68,167);
 }
 
-jsicon {
-    color: rgb(226, 211, 4);
+.jsicon {
+    color: rgb(247,224,24);
 }
 
-html5icon {
-    color: orangered;
+.html5icon {
+    color: rgb(229,76,33)
 }
 
-css3icon {
-    color: rgb(11, 82, 214);
+.css3icon {
+    color: rgb(34,153,248)
 }
 
-checklist > li i {
-    color: var(--secondary-color);
+.ckecklist > li i {
+    color: #ff993b;
 }
 
 code[class*="language-"],
