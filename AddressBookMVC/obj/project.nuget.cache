@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g2I+fmY5DSGM4YRLsW9G8FmLhwSj1oejpvP0KO0wEZwlEY6npuGkkG48GbttF+Es06q4sNRZZzovPMV3QYTn1w==",
+  "dgSpecHash": "hZ5zNkNBQHLbXPVbEbWnnPw39A+nXWqpw7Xd+tUg16Bztb3scI1rup3WAvUD3UHidtDxSfRfqonfnyU3+WkNUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\source\\repos\\AddressBookMVC\\AddressBookMVC\\AddressBookMVC.csproj",
   "expectedPackageFiles": [
@@ -132,7 +132,8 @@
     "C:\\Users\\USER\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
   ],
   "logs": []
 }

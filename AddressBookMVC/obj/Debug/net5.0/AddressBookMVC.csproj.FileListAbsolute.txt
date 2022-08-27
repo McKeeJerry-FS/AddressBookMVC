@@ -342,7 +342,6 @@ C:\Users\USER\source\repos\AddressBookMVC\AddressBookMVC\obj\Debug\net5.0\Addres
 C:\Users\USER\source\repos\AddressBookMVC\AddressBookMVC\obj\Debug\net5.0\AddressBookMVC.RazorAssemblyInfo.cache
 C:\Users\USER\source\repos\AddressBookMVC\AddressBookMVC\obj\Debug\net5.0\AddressBookMVC.RazorAssemblyInfo.cs
 C:\Users\USER\source\repos\AddressBookMVC\AddressBookMVC\obj\Debug\net5.0\staticwebassets\AddressBookMVC.StaticWebAssets.Manifest.cache
-C:\Users\USER\source\repos\AddressBookMVC\AddressBookMVC\obj\Debug\net5.0\staticwebassets\AddressBookMVC.StaticWebAssets.xml
 C:\Users\USER\source\repos\AddressBookMVC\AddressBookMVC\obj\Debug\net5.0\scopedcss\bundle\AddressBookMVC.styles.css
 C:\Users\USER\source\repos\AddressBookMVC\AddressBookMVC\obj\Debug\net5.0\AddressBookMVC.TagHelpers.input.cache
 C:\Users\USER\source\repos\AddressBookMVC\AddressBookMVC\obj\Debug\net5.0\AddressBookMVC.TagHelpers.output.cache
